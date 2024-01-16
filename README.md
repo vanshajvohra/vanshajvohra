@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Vanshaj
+### 👋 Hey, I'm Vanshaj
 - 📚 I am a senior at the University of Waterloo
 - 🔍 I am looking for backend development and product management roles for Summer 2024.
 - 👨‍💻 I have previously worked as a Product Development Intern at Ford and PM Intern at Tecsys.
