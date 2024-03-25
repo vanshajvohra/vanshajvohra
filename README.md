@@ -5,7 +5,7 @@
 - 📌 Check out my projects below.
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanshajvohra)](https://github.com/vanshajvohra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanshajvohra&theme=dracula)](https://github.com/vanshajvohra/github-readme-stats)
 
 
 
