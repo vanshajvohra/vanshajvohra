@@ -1,7 +1,8 @@
 ### 👋 Hey, I'm Vanshaj
-- 📚 I am a senior at the University of Waterloo
-- 🔍 I am looking for backend development and product management roles for Summer 2024.
-- 👨‍💻 I have previously worked as a Product Development Intern at Ford and PM Intern at Tecsys.
+- 📚 I am a senior at the University of Waterloo graduating in April 2025.
+- 🏈 I am currently working as a Software Developer intern at theScore.
+- 🔍 I am looking for New Grad backend development and software engineering roles for 2025.
+- 👨‍💻 I have previously worked as a AI Software Engineer at Bespoke Metrics Inc, SWE Intern at Ford, Full Stack SWE at AutoCate and SWE at Ciena.
 - 📌 Check out my projects below.
 
 
