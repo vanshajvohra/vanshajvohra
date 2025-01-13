@@ -10,7 +10,7 @@
 - 🏬 Product Management Intern at [Tecsys Inc.](https://www.tecsys.com/) - REST APIs Team
 - 👨‍🔧 Full Stack Software Engineer at [AutoCate](https://www.autocate.ca/)
 - 📞 Software Engineering Intern at [Ciena](https://www.ciena.com/) - Photonics Software Team
-- 🏈 Participated in [NFL Big Data Bowl 2025](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/) - collaborated with friends to create an [ML Model](https://www.kaggle.com/code/vanshajvohra/tight-end-the-most-versatile-position) to predict Tight End behaviour
+- 🏈 Participated in [NFL Big Data Bowl](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/) 2025 - collaborated with friends to create an [ML Model](https://www.kaggle.com/code/vanshajvohra/tight-end-the-most-versatile-position) to predict Tight End behaviour
 - 👨‍💻 Participated at [Hack the North](https://hackthenorth.com/) 2020++ - collaborated with friends to create [PhysiBot](https://github.com/Ojas-Sharma/PhysiBot)
 
 
