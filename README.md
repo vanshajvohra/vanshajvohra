@@ -4,7 +4,7 @@
 - 👨‍💻 Interested in Backend Development, Machine Learning, Large Language Models, Distributed Systems, Game Theory, Working Out, Football, Fantasy Football, Swimming, Poker
 
 ### 🚀 Experience
-- 🎰 Software Developer Co-op at [theScore](https://www.thescore.com/) - Casino Integrations Team
+- 🎰 Software Developer Co-op at [theScore](https://about.thescore.bet/) - Casino Integrations Team
 - 🧠 Artificial Intelligence Software Engineer at [Bespoke Metrics](https://compass.bespokemetrics.com/)
 - 🚘 Software Developer Intern at [Ford Motor Company](https://www.ford.ca/) - Platform Team
 - 🏬 Product Management Intern at [Tecsys Inc.](https://www.tecsys.com/) - REST APIs Team
