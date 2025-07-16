@@ -1,5 +1,6 @@
 ## 👋 Hey, I'm Vanshaj
-- 👨‍💻 Interested in Backend Development, Machine Learning, Large Language Models, Distributed Systems, Game Theory, Working Out, Football, Poker
+- 👨‍💻 Software Engineer at [Zip](https://ziphq.com/) -  Finance, Procurement and Sourcing team
+- 🧩 Interested in Backend Development, Machine Learning, Large Language Models, Distributed Systems, Game Theory, Working Out, Football, Mxed Martial Arts, Poker
 
 ### 🚀 Past Experience
 - 📚 University of Waterloo Computer Science alumnus
@@ -8,8 +9,6 @@
 - 🚘 Software Developer Intern at [Ford Motor Company](https://www.ford.ca/) - Platform Team
 - 🏬 Product Management Intern at [Tecsys Inc.](https://www.tecsys.com/) - REST APIs Team
 - 📞 Software Engineering Intern at [Ciena](https://www.ciena.com/) - Photonics Software Team
-- 🏈 Participated in [NFL Big Data Bowl](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/) 2025 - collaborated with a friend to create an [ML Model](https://www.kaggle.com/code/vanshajvohra/tight-end-the-most-versatile-position) to predict Tight End behaviour
-- 👨‍💻 Participated in [Hack the North](https://hackthenorth.com/) 2020++ - collaborated with friends to create [PhysiBot](https://github.com/Ojas-Sharma/PhysiBot)
 
 
 
