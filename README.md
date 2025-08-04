@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Vanshaj
-- 👨‍💻 Software Engineer at [Zip](https://ziphq.com/) -  Finance, Procurement and Sourcing team
+- 👨‍💻 Software Engineer at [Zip](https://ziphq.com/) -  Sourcing & Purchasing Team
 - 🧩 Interested in Backend Development, Machine Learning, Large Language Models, Distributed Systems, Game Theory, Working Out, Football, Mxed Martial Arts, Poker
 
 ### 🚀 Past Experience
