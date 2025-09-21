@@ -1,14 +1,8 @@
 ## 👋 Hey, I'm Vanshaj
 - 👨‍💻 Software Engineer at [Zip](https://ziphq.com/) -  Sourcing & Purchasing Team
-- 🧩 Interested in Backend Development, Machine Learning, Large Language Models, Distributed Systems, Game Theory, Working Out, Football, Trivia Contests, Poker
-
-### 🚀 Past Experience
-- 📚 University of Waterloo Computer Science alumnus
-- 🎰 Software Developer Intern at [theScore](https://about.thescore.bet/) - Casino Integrations Team
-- 🧠 Artificial Intelligence Software Engineer at [Bespoke Metrics](https://compass.bespokemetrics.com/)
-- 🚘 Software Developer Intern at [Ford Motor Company](https://www.ford.ca/) - Platform Team
-- 🏬 Product Management Intern at [Tecsys Inc.](https://www.tecsys.com/) - REST APIs Team
-- 📞 Software Engineering Intern at [Ciena](https://www.ciena.com/) - Photonics Software Team
+- 📚 Computer Science alumnus at [University of Waterloo](https://uwaterloo.ca/)
+- 🧩 Interested in Full Stack Software Development, Machine Learning, Large Language Models, Game Theory, Working Out, Football, Trivia Contests, Poker
+- ℹ️ Reach out to me at [vanshajvohra@gmail.com](mailto:vanshajvohra@gmail.com)
 
 
 
